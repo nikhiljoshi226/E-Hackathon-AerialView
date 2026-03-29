@@ -1,255 +1,89 @@
 symbol,date,trade_id,violation_type,remarks
-BATUSDT,2026-01-13,BATUSDT_00000501,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-13; wallet=trader_07, n=2, notional_cv=0.014, buy_ratio=0.50, group=mgr_03."
-BATUSDT,2026-01-13,BATUSDT_00000502,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-13; wallet=trader_07, n=2, notional_cv=0.014, buy_ratio=0.50, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000503,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000504,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000505,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000506,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000507,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000508,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-21,BATUSDT_00000509,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-21; wallet=trader_08, n=7, notional_cv=0.049, buy_ratio=1.00, group=mgr_03."
-BATUSDT,2026-01-28,BATUSDT_00000510,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000511,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000512,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000513,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000514,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000515,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000516,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000517,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000518,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-01-28,BATUSDT_00000519,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-28; wallet=trader_09, n=10, notional_cv=0.354, buy_ratio=0.50, group=mgr_04."
-BATUSDT,2026-02-09,BATUSDT_00000520,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-09; wallet=trader_10, n=6, notional_cv=0.054, buy_ratio=1.00, group=mgr_04."
-BATUSDT,2026-02-09,BATUSDT_00000521,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-09; wallet=trader_10, n=6, notional_cv=0.054, buy_ratio=1.00, group=mgr_04."
-BATUSDT,2026-02-09,BATUSDT_00000522,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-09; wallet=trader_10, n=6, notional_cv=0.054, buy_ratio=1.00, group=mgr_04."
-BATUSDT,2026-02-09,BATUSDT_00000523,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-09; wallet=trader_10, n=6, notional_cv=0.054, buy_ratio=1.00, group=mgr_04."
-BATUSDT,2026-02-09,BATUSDT_00000524,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-09; wallet=trader_10, n=6, notional_cv=0.054, buy_ratio=1.00, group=mgr_04."
-BATUSDT,2026-02-09,BATUSDT_00000525,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-09; wallet=trader_10, n=6, notional_cv=0.054, buy_ratio=1.00, group=mgr_04."
-BATUSDT,2026-02-16,BATUSDT_00000526,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.09%, avg_tradecount_z=-0.20, group=mgr_04."
-BATUSDT,2026-02-16,BATUSDT_00000527,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.09%, avg_tradecount_z=-0.20, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000528,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000529,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000530,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000531,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000532,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000533,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000534,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BATUSDT,2026-02-23,BATUSDT_00000535,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.38%, avg_tradecount_z=-0.17, group=mgr_04."
-BTCUSDT,2026-01-08,BTCUSDT_00005001,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-08; wallet=trader_01, n=2, notional_cv=0.011, buy_ratio=0.50, group=mgr_01."
-BTCUSDT,2026-01-08,BTCUSDT_00005002,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-08; wallet=trader_01, n=2, notional_cv=0.011, buy_ratio=0.50, group=mgr_01."
-BTCUSDT,2026-01-15,BTCUSDT_00005003,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.064, price_cv=0.0012, group=mgr_01."
-BTCUSDT,2026-01-15,BTCUSDT_00005004,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.064, price_cv=0.0012, group=mgr_01."
-BTCUSDT,2026-01-15,BTCUSDT_00005005,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.064, price_cv=0.0012, group=mgr_01."
-BTCUSDT,2026-01-15,BTCUSDT_00005006,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.064, price_cv=0.0012, group=mgr_01."
-BTCUSDT,2026-01-15,BTCUSDT_00005007,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.064, price_cv=0.0012, group=mgr_01."
-BTCUSDT,2026-01-15,BTCUSDT_00005008,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.064, price_cv=0.0012, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005009,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005010,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005011,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005012,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005013,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005014,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-22,BTCUSDT_00005015,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-22; wallet=trader_03, n=7, notional_cv=0.053, buy_ratio=1.00, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005016,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005017,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005018,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005019,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005020,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005021,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005022,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005023,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005024,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-01-29,BTCUSDT_00005025,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.017, price_cv=0.0003, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005026,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005027,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005028,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005029,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005030,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005031,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005032,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005033,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005034,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005035,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005036,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-05,BTCUSDT_00005037,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=0.26%, avg_tradecount_z=0.18, group=mgr_01."
-BTCUSDT,2026-02-12,BTCUSDT_00005038,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-12,BTCUSDT_00005039,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-12,BTCUSDT_00005040,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-12,BTCUSDT_00005041,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-12,BTCUSDT_00005042,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-12,BTCUSDT_00005043,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-12,BTCUSDT_00005044,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_04, up_ratio=1.00, event_return=0.29%, group=mgr_02."
-BTCUSDT,2026-02-19,BTCUSDT_00005045,manager_consolidation,"Late large consolidation-style transfer inside linked group mgr_01; wallet=mgr_01, notional=65169.09, date=2026-02-19."
-DOGEUSDT,2026-01-11,DOGEUSDT_00002001,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=-0.53%, avg_tradecount_z=-0.44, group=mgr_01."
-DOGEUSDT,2026-01-11,DOGEUSDT_00002002,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=-0.53%, avg_tradecount_z=-0.44, group=mgr_01."
-DOGEUSDT,2026-01-11,DOGEUSDT_00002003,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=-0.53%, avg_tradecount_z=-0.44, group=mgr_01."
-DOGEUSDT,2026-01-19,DOGEUSDT_00002004,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.042, price_cv=0.0020, group=mgr_01."
-DOGEUSDT,2026-01-19,DOGEUSDT_00002005,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.042, price_cv=0.0020, group=mgr_01."
-DOGEUSDT,2026-01-19,DOGEUSDT_00002006,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.042, price_cv=0.0020, group=mgr_01."
-DOGEUSDT,2026-01-19,DOGEUSDT_00002007,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.042, price_cv=0.0020, group=mgr_01."
-DOGEUSDT,2026-01-19,DOGEUSDT_00002008,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.042, price_cv=0.0020, group=mgr_01."
-DOGEUSDT,2026-01-19,DOGEUSDT_00002009,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.042, price_cv=0.0020, group=mgr_01."
-DOGEUSDT,2026-01-26,DOGEUSDT_00002010,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.046, price_cv=0.0016, group=mgr_02."
-DOGEUSDT,2026-01-26,DOGEUSDT_00002011,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.046, price_cv=0.0016, group=mgr_02."
-DOGEUSDT,2026-01-26,DOGEUSDT_00002012,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.046, price_cv=0.0016, group=mgr_02."
-DOGEUSDT,2026-01-26,DOGEUSDT_00002013,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.046, price_cv=0.0016, group=mgr_02."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002014,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002015,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002016,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002017,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002018,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002019,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-07,DOGEUSDT_00002020,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-07; wallet=trader_03, n=7, notional_cv=0.082, buy_ratio=1.00, group=mgr_01."
-DOGEUSDT,2026-02-14,DOGEUSDT_00002021,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.015, wallets=2, group=mgr_02."
-DOGEUSDT,2026-02-14,DOGEUSDT_00002022,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.015, wallets=2, group=mgr_02."
-DOGEUSDT,2026-02-14,DOGEUSDT_00002023,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.015, wallets=2, group=mgr_02."
-DOGEUSDT,2026-02-14,DOGEUSDT_00002024,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.015, wallets=2, group=mgr_02."
-DOGEUSDT,2026-02-14,DOGEUSDT_00002025,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.015, wallets=2, group=mgr_02."
-DOGEUSDT,2026-02-14,DOGEUSDT_00002026,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.015, wallets=2, group=mgr_02."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002027,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002028,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002029,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002030,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002031,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002032,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-DOGEUSDT,2026-02-21,DOGEUSDT_00002033,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_08, up_ratio=0.83, event_return=0.29%, group=mgr_03."
-ETHUSDT,2026-01-07,ETHUSDT_00004001,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.035, price_cv=0.0023, group=mgr_02."
-ETHUSDT,2026-01-07,ETHUSDT_00004002,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.035, price_cv=0.0023, group=mgr_02."
-ETHUSDT,2026-01-07,ETHUSDT_00004003,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.035, price_cv=0.0023, group=mgr_02."
-ETHUSDT,2026-01-07,ETHUSDT_00004004,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.035, price_cv=0.0023, group=mgr_02."
-ETHUSDT,2026-01-16,ETHUSDT_00004005,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=-0.17%, avg_tradecount_z=1.87, group=mgr_02."
-ETHUSDT,2026-01-16,ETHUSDT_00004006,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=-0.17%, avg_tradecount_z=1.87, group=mgr_02."
-ETHUSDT,2026-01-16,ETHUSDT_00004007,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=3, event_return=-0.17%, avg_tradecount_z=1.87, group=mgr_02."
-ETHUSDT,2026-01-23,ETHUSDT_00004008,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-23; wallet=trader_05, n=6, notional_cv=0.041, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-01-23,ETHUSDT_00004009,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-23; wallet=trader_05, n=6, notional_cv=0.041, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-01-23,ETHUSDT_00004010,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-23; wallet=trader_05, n=6, notional_cv=0.041, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-01-23,ETHUSDT_00004011,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-23; wallet=trader_05, n=6, notional_cv=0.041, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-01-23,ETHUSDT_00004012,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-23; wallet=trader_05, n=6, notional_cv=0.041, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-01-23,ETHUSDT_00004013,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-23; wallet=trader_05, n=6, notional_cv=0.041, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-03,ETHUSDT_00004014,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.006, wallets=2, group=mgr_02."
-ETHUSDT,2026-02-03,ETHUSDT_00004015,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.006, wallets=2, group=mgr_02."
-ETHUSDT,2026-02-03,ETHUSDT_00004016,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.006, wallets=2, group=mgr_02."
-ETHUSDT,2026-02-03,ETHUSDT_00004017,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.006, wallets=2, group=mgr_02."
-ETHUSDT,2026-02-03,ETHUSDT_00004018,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.006, wallets=2, group=mgr_02."
-ETHUSDT,2026-02-03,ETHUSDT_00004019,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.006, wallets=2, group=mgr_02."
-ETHUSDT,2026-02-10,ETHUSDT_00004020,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_02."
-ETHUSDT,2026-02-10,ETHUSDT_00004021,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_02."
-ETHUSDT,2026-02-10,ETHUSDT_00004022,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_02."
-ETHUSDT,2026-02-10,ETHUSDT_00004023,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_02."
-ETHUSDT,2026-02-10,ETHUSDT_00004024,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004025,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004026,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004027,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004028,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004029,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004030,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-ETHUSDT,2026-02-17,ETHUSDT_00004031,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-17; wallet=trader_04, n=7, notional_cv=0.052, buy_ratio=1.00, group=mgr_02."
-LTCUSDT,2026-01-12,LTCUSDT_00001501,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-12; wallet=trader_04, n=2, notional_cv=0.018, buy_ratio=0.50, group=mgr_02."
-LTCUSDT,2026-01-12,LTCUSDT_00001502,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-12; wallet=trader_04, n=2, notional_cv=0.018, buy_ratio=0.50, group=mgr_02."
-LTCUSDT,2026-01-20,LTCUSDT_00001503,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=4, event_return=-0.33%, avg_tradecount_z=-0.37, group=mgr_01."
-LTCUSDT,2026-01-20,LTCUSDT_00001504,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=4, event_return=-0.33%, avg_tradecount_z=-0.37, group=mgr_01."
-LTCUSDT,2026-01-20,LTCUSDT_00001505,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=4, event_return=-0.33%, avg_tradecount_z=-0.37, group=mgr_01."
-LTCUSDT,2026-01-20,LTCUSDT_00001506,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=4, event_return=-0.33%, avg_tradecount_z=-0.37, group=mgr_01."
-LTCUSDT,2026-01-27,LTCUSDT_00001507,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-27; wallet=trader_06, n=1, notional_cv=0.000, buy_ratio=0.00, group=mgr_02."
-LTCUSDT,2026-02-08,LTCUSDT_00001508,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_03."
-LTCUSDT,2026-02-08,LTCUSDT_00001509,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_03."
-LTCUSDT,2026-02-08,LTCUSDT_00001510,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_03."
-LTCUSDT,2026-02-08,LTCUSDT_00001511,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_03."
-LTCUSDT,2026-02-08,LTCUSDT_00001512,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=3, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001513,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001514,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001515,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001516,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001517,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001518,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001519,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-15,LTCUSDT_00001520,coordinated_structuring,"Multi-wallet below-threshold pattern on 2026-02-15; wallets=2, n=8, notional_cv=0.047, group=mgr_03."
-LTCUSDT,2026-02-22,LTCUSDT_00001521,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-LTCUSDT,2026-02-22,LTCUSDT_00001522,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-LTCUSDT,2026-02-22,LTCUSDT_00001523,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-LTCUSDT,2026-02-22,LTCUSDT_00001524,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-LTCUSDT,2026-02-22,LTCUSDT_00001525,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-LTCUSDT,2026-02-22,LTCUSDT_00001526,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-LTCUSDT,2026-02-22,LTCUSDT_00001527,ramping,"One wallet kept trading with an upward drift in price; wallet=trader_10, up_ratio=0.83, event_return=0.30%, group=mgr_04."
-SOLUSDT,2026-01-09,SOLUSDT_00002501,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-09; wallet=trader_07, n=2, notional_cv=0.055, buy_ratio=0.50, group=mgr_03."
-SOLUSDT,2026-01-09,SOLUSDT_00002502,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-09; wallet=trader_07, n=2, notional_cv=0.055, buy_ratio=0.50, group=mgr_03."
-SOLUSDT,2026-01-17,SOLUSDT_00002503,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.061, price_cv=0.0021, group=mgr_03."
-SOLUSDT,2026-01-17,SOLUSDT_00002504,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.061, price_cv=0.0021, group=mgr_03."
-SOLUSDT,2026-01-17,SOLUSDT_00002505,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.061, price_cv=0.0021, group=mgr_03."
-SOLUSDT,2026-01-17,SOLUSDT_00002506,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.061, price_cv=0.0021, group=mgr_03."
-SOLUSDT,2026-01-17,SOLUSDT_00002507,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.061, price_cv=0.0021, group=mgr_03."
-SOLUSDT,2026-01-17,SOLUSDT_00002508,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.061, price_cv=0.0021, group=mgr_03."
-SOLUSDT,2026-01-24,SOLUSDT_00002509,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.05%, avg_tradecount_z=-0.06, group=mgr_03."
-SOLUSDT,2026-01-24,SOLUSDT_00002510,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.05%, avg_tradecount_z=-0.06, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002511,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002512,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002513,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002514,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002515,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002516,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-04,SOLUSDT_00002517,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-04; wallet=trader_07, n=7, notional_cv=0.045, buy_ratio=1.00, group=mgr_03."
-SOLUSDT,2026-02-11,SOLUSDT_00002518,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.30%, avg_tradecount_z=1.96, group=mgr_03."
-SOLUSDT,2026-02-11,SOLUSDT_00002519,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=-0.30%, avg_tradecount_z=1.96, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002520,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002521,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002522,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002523,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002524,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002525,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002526,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002527,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002528,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-SOLUSDT,2026-02-18,SOLUSDT_00002529,wash_trading,"Linked activity shows near-flat net positioning and a tight price band; net_notional_ratio=0.089, price_cv=0.0006, group=mgr_03."
-USDCUSDT,2026-01-14,USDCUSDT_00001001,peg_break,"USDC trade moved 0.570% away from the $1.00 peg at 1.005697; group=mgr_01, wallet=trader_01, qty=268.8490."
-USDCUSDT,2026-01-21,USDCUSDT_00001002,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001003,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001004,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001005,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001006,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001007,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001008,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-01-21,USDCUSDT_00001009,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_01, n=8, net_notional_ratio=0.010."
-USDCUSDT,2026-02-02,USDCUSDT_00001010,peg_break,"USDC trade moved 0.670% away from the $1.00 peg at 0.993304; group=mgr_02, wallet=trader_04, qty=126.0126."
-USDCUSDT,2026-02-09,USDCUSDT_00001011,peg_break,"USDC trade moved 1.216% away from the $1.00 peg at 0.987836; group=mgr_02, wallet=trader_05, qty=198.0141."
-USDCUSDT,2026-02-16,USDCUSDT_00001012,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-16,USDCUSDT_00001013,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-16,USDCUSDT_00001014,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-16,USDCUSDT_00001015,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-16,USDCUSDT_00001016,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-16,USDCUSDT_00001017,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-16,USDCUSDT_00001018,wash_volume_at_peg,"Linked USDC activity stayed pinned near $1.00 with repeated offsetting flow; group=mgr_02, n=7, net_notional_ratio=1.000."
-USDCUSDT,2026-02-23,USDCUSDT_00001019,manager_consolidation,"Late large consolidation-style transfer inside linked group mgr_02; wallet=mgr_02, notional=1052.11, date=2026-02-23."
-XRPUSDT,2026-01-10,XRPUSDT_00002501,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-10,XRPUSDT_00002502,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-10,XRPUSDT_00002503,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-10,XRPUSDT_00002504,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-10,XRPUSDT_00002505,chain_layering,"Stepped multi-wallet sequence with alternating sides and upward price path; alternating_ratio=1.00, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002506,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002507,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002508,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002509,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002510,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002511,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-18,XRPUSDT_00002512,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-18; wallet=trader_09, n=7, notional_cv=0.059, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-25,XRPUSDT_00002513,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-25; wallet=trader_10, n=6, notional_cv=0.049, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-25,XRPUSDT_00002514,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-25; wallet=trader_10, n=6, notional_cv=0.049, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-25,XRPUSDT_00002515,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-25; wallet=trader_10, n=6, notional_cv=0.049, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-25,XRPUSDT_00002516,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-25; wallet=trader_10, n=6, notional_cv=0.049, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-25,XRPUSDT_00002517,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-25; wallet=trader_10, n=6, notional_cv=0.049, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-25,XRPUSDT_00002518,aml_structuring,"Single-wallet repeated similar-size flow on 2026-01-25; wallet=trader_10, n=6, notional_cv=0.049, buy_ratio=1.00, group=mgr_04."
-XRPUSDT,2026-01-30,XRPUSDT_00002519,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.026, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-30,XRPUSDT_00002520,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.026, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-30,XRPUSDT_00002521,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.026, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-30,XRPUSDT_00002522,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.026, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-30,XRPUSDT_00002523,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.026, wallets=2, group=mgr_04."
-XRPUSDT,2026-01-30,XRPUSDT_00002524,round_trip_wash,"Tight alternating buy/sell loop with low net exposure change; net_notional_ratio=0.026, wallets=2, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002525,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002526,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002527,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002528,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002529,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002530,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002531,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-06,XRPUSDT_00002532,coordinated_pump,"Linked wallets bought in the same direction while price climbed; wallets=2, event_return=0.36%, avg_tradecount_z=0.82, group=mgr_04."
-XRPUSDT,2026-02-13,XRPUSDT_00002533,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-13; wallet=trader_09, n=2, notional_cv=0.040, buy_ratio=0.50, group=mgr_04."
-XRPUSDT,2026-02-13,XRPUSDT_00002534,aml_structuring,"Single-wallet repeated similar-size flow on 2026-02-13; wallet=trader_09, n=2, notional_cv=0.040, buy_ratio=0.50, group=mgr_04."
-XRPUSDT,2026-02-20,XRPUSDT_00002535,manager_consolidation,"Late large consolidation-style transfer inside linked group mgr_04; wallet=mgr_04, notional=1533.92, date=2026-02-20."
+BATUSDT,2026-01-28,BATUSDT_00000510,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-28; price=0.173044; qty=0.050473; vol_z=0.03; tc_z=0.07
+BATUSDT,2026-01-28,BATUSDT_00000513,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-28; price=0.173168; qty=0.045825; vol_z=3.47; tc_z=2.98
+BATUSDT,2026-01-28,BATUSDT_00000512,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-28; price=0.173123; qty=0.051859; vol_z=0.27; tc_z=0.50
+BATUSDT,2026-01-28,BATUSDT_00000511,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-28; price=0.173084; qty=0.055195; vol_z=-0.05; tc_z=-0.14
+BATUSDT,2026-01-28,BATUSDT_00000518,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-28; price=0.173103; qty=0.037388; vol_z=0.03; tc_z=0.03
+BATUSDT,2026-01-28,BATUSDT_00000514,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-28; price=0.173256; qty=0.059963; vol_z=0.01; tc_z=0.05
+BATUSDT,2026-02-23,BATUSDT_00000533,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-23; price=0.115965; qty=91.089680; vol_z=-0.01; tc_z=-0.23
+BATUSDT,2026-02-23,BATUSDT_00000529,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-23; price=0.116446; qty=93.676919; vol_z=0.00; tc_z=0.00
+BATUSDT,2026-02-23,BATUSDT_00000530,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-23; price=0.116029; qty=94.751405; vol_z=0.00; tc_z=0.00
+BATUSDT,2026-02-23,BATUSDT_00000531,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-23; price=0.115987; qty=94.865523; vol_z=0.00; tc_z=0.00
+BATUSDT,2026-02-23,BATUSDT_00000528,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-23; price=0.116325; qty=96.582923; vol_z=-0.01; tc_z=-0.16
+BATUSDT,2026-01-21,BATUSDT_00000504,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-01-21; price=0.192142; qty=86.208787; vol_z=2.54; tc_z=2.68
+BTCUSDT,2026-02-05,BTCUSDT_00005035,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-05; price=70423.311361; qty=0.091005; vol_z=0.14; tc_z=0.55
+BTCUSDT,2026-02-05,BTCUSDT_00005026,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-05; price=70453.096570; qty=0.089995; vol_z=3.32; tc_z=1.11
+BTCUSDT,2026-02-05,BTCUSDT_00005034,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-05; price=70131.665051; qty=0.091872; vol_z=2.64; tc_z=2.77
+BTCUSDT,2026-02-05,BTCUSDT_00005032,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-05; price=70391.436905; qty=0.088499; vol_z=-0.45; tc_z=-0.76
+BTCUSDT,2026-02-05,BTCUSDT_00005030,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-05; price=70151.124219; qty=0.088149; vol_z=-0.59; tc_z=-0.35
+BTCUSDT,2026-01-29,BTCUSDT_00005018,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_01; day=2026-01-29; price=88023.075997; qty=0.054299; vol_z=-0.43; tc_z=-0.60
+BTCUSDT,2026-01-29,BTCUSDT_00005022,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_01; day=2026-01-29; price=88030.709608; qty=0.055087; vol_z=-0.05; tc_z=0.41
+BTCUSDT,2026-01-29,BTCUSDT_00005016,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_01; day=2026-01-29; price=87985.776230; qty=0.055935; vol_z=0.46; tc_z=-0.35
+BTCUSDT,2026-01-29,BTCUSDT_00005023,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_01; day=2026-01-29; price=88019.126459; qty=0.050911; vol_z=-0.39; tc_z=-0.85
+BTCUSDT,2026-01-29,BTCUSDT_00005020,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_01; day=2026-01-29; price=88073.824332; qty=0.060327; vol_z=-0.34; tc_z=-0.24
+BTCUSDT,2026-01-29,BTCUSDT_00005025,wash_trading,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_01; day=2026-01-29; price=87982.497931; qty=0.048869; vol_z=0.28; tc_z=-0.05
+BTCUSDT,2026-02-12,BTCUSDT_00005041,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_02; day=2026-02-12; price=67352.321894; qty=0.027561; vol_z=1.16; tc_z=0.14
+DOGEUSDT,2026-02-14,DOGEUSDT_00002025,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-14; price=0.099679; qty=158.276722; vol_z=4.45; tc_z=5.80
+DOGEUSDT,2026-02-14,DOGEUSDT_00002023,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-14; price=0.099691; qty=147.495691; vol_z=0.39; tc_z=1.85
+DOGEUSDT,2026-02-14,DOGEUSDT_00002026,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-14; price=0.099707; qty=143.902171; vol_z=0.18; tc_z=0.22
+DOGEUSDT,2026-02-14,DOGEUSDT_00002021,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-14; price=0.099719; qty=164.728559; vol_z=-0.06; tc_z=-0.30
+DOGEUSDT,2026-02-14,DOGEUSDT_00002024,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-14; price=0.099716; qty=134.531843; vol_z=-0.07; tc_z=0.05
+DOGEUSDT,2026-02-14,DOGEUSDT_00002022,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-14; price=0.099754; qty=177.605006; vol_z=0.08; tc_z=0.18
+DOGEUSDT,2026-02-07,DOGEUSDT_00002016,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-07; price=0.097692; qty=86.590919; vol_z=-0.06; tc_z=-0.18
+DOGEUSDT,2026-02-07,DOGEUSDT_00002018,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-07; price=0.097590; qty=85.921368; vol_z=-0.22; tc_z=-0.25
+DOGEUSDT,2026-02-07,DOGEUSDT_00002019,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-07; price=0.098174; qty=84.857251; vol_z=1.57; tc_z=0.26
+DOGEUSDT,2026-02-07,DOGEUSDT_00002015,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-07; price=0.097681; qty=84.521791; vol_z=-0.10; tc_z=-0.22
+DOGEUSDT,2026-02-07,DOGEUSDT_00002014,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_01; day=2026-02-07; price=0.098220; qty=90.342294; vol_z=-0.35; tc_z=-0.37
+DOGEUSDT,2026-02-21,DOGEUSDT_00002032,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_03; day=2026-02-21; price=0.100213; qty=0.015751; vol_z=-0.21; tc_z=-0.22
+ETHUSDT,2026-02-03,ETHUSDT_00004017,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-03; price=2298.526869; qty=0.110701; vol_z=-0.12; tc_z=0.09
+ETHUSDT,2026-02-03,ETHUSDT_00004016,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-03; price=2298.032889; qty=0.102910; vol_z=2.15; tc_z=2.59
+ETHUSDT,2026-02-03,ETHUSDT_00004014,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-03; price=2297.677303; qty=0.101597; vol_z=0.03; tc_z=-0.11
+ETHUSDT,2026-02-03,ETHUSDT_00004018,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-03; price=2297.791683; qty=0.113453; vol_z=-0.26; tc_z=0.09
+ETHUSDT,2026-02-03,ETHUSDT_00004019,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-03; price=2298.203436; qty=0.114448; vol_z=-0.22; tc_z=0.16
+ETHUSDT,2026-02-03,ETHUSDT_00004015,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_02; day=2026-02-03; price=2298.199812; qty=0.096465; vol_z=-0.13; tc_z=0.02
+ETHUSDT,2026-02-17,ETHUSDT_00004025,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-17; price=1988.621999; qty=0.087588; vol_z=0.08; tc_z=-0.57
+ETHUSDT,2026-02-17,ETHUSDT_00004030,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-17; price=1993.151975; qty=0.087666; vol_z=-0.15; tc_z=-0.31
+ETHUSDT,2026-02-17,ETHUSDT_00004029,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-17; price=1990.939589; qty=0.087059; vol_z=-0.24; tc_z=-0.51
+ETHUSDT,2026-02-17,ETHUSDT_00004031,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-17; price=1993.031778; qty=0.085216; vol_z=0.30; tc_z=0.43
+ETHUSDT,2026-02-17,ETHUSDT_00004027,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-17; price=1990.072506; qty=0.083509; vol_z=-0.13; tc_z=0.04
+ETHUSDT,2026-01-23,ETHUSDT_00004011,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-01-23; price=2959.802176; qty=0.092823; vol_z=-0.39; tc_z=-0.31
+LTCUSDT,2026-02-22,LTCUSDT_00001527,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_04; day=2026-02-22; price=54.567479; qty=0.021507; vol_z=-0.05; tc_z=0.12
+LTCUSDT,2026-02-22,LTCUSDT_00001526,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_04; day=2026-02-22; price=54.543612; qty=0.035583; vol_z=0.49; tc_z=0.75
+LTCUSDT,2026-02-22,LTCUSDT_00001525,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_04; day=2026-02-22; price=54.495240; qty=0.036344; vol_z=0.95; tc_z=4.41
+LTCUSDT,2026-02-22,LTCUSDT_00001524,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_04; day=2026-02-22; price=54.467101; qty=0.037103; vol_z=9.70; tc_z=8.25
+LTCUSDT,2026-02-22,LTCUSDT_00001523,ramping,Same-direction sequence walks the market with supportive volume/tradecount context. manager=mgr_04; day=2026-02-22; price=54.470591; qty=0.058154; vol_z=2.90; tc_z=5.33
+LTCUSDT,2026-02-15,LTCUSDT_00001517,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-15; price=55.454489; qty=0.089877; vol_z=0.90; tc_z=0.95
+LTCUSDT,2026-02-15,LTCUSDT_00001519,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-15; price=55.545514; qty=0.091230; vol_z=-0.40; tc_z=-0.18
+LTCUSDT,2026-02-15,LTCUSDT_00001520,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-15; price=55.515807; qty=0.089632; vol_z=-0.12; tc_z=0.51
+LTCUSDT,2026-02-15,LTCUSDT_00001513,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-15; price=55.510545; qty=0.092312; vol_z=0.53; tc_z=0.11
+LTCUSDT,2026-02-15,LTCUSDT_00001516,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-15; price=55.522371; qty=0.094289; vol_z=-0.52; tc_z=-0.82
+LTCUSDT,2026-01-20,LTCUSDT_00001503,placement_smurfing,Multiple wallets entered together on one side with similar sizing. manager=mgr_01; day=2026-01-20; price=69.649412; qty=0.573566; vol_z=-0.20; tc_z=-0.40
+LTCUSDT,2026-01-20,LTCUSDT_00001504,placement_smurfing,Multiple wallets entered together on one side with similar sizing. manager=mgr_01; day=2026-01-20; price=69.274582; qty=0.408812; vol_z=0.02; tc_z=-0.21
+SOLUSDT,2026-02-04,SOLUSDT_00002511,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-04; price=96.236869; qty=0.089899; vol_z=-0.26; tc_z=-0.79
+SOLUSDT,2026-02-04,SOLUSDT_00002514,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-04; price=95.975592; qty=0.090558; vol_z=-0.06; tc_z=-0.18
+SOLUSDT,2026-02-04,SOLUSDT_00002516,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-04; price=95.973916; qty=0.090863; vol_z=-0.18; tc_z=-0.30
+SOLUSDT,2026-02-04,SOLUSDT_00002517,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-04; price=96.151107; qty=0.086859; vol_z=0.12; tc_z=0.46
+SOLUSDT,2026-02-04,SOLUSDT_00002513,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_03; day=2026-02-04; price=96.164857; qty=0.085842; vol_z=-0.02; tc_z=0.39
+SOLUSDT,2026-02-11,SOLUSDT_00002518,placement_smurfing,Multiple wallets entered together on one side with similar sizing. manager=mgr_03; day=2026-02-11; price=81.088052; qty=0.435918; vol_z=0.30; tc_z=0.84
+SOLUSDT,2026-02-11,SOLUSDT_00002519,placement_smurfing,Multiple wallets entered together on one side with similar sizing. manager=mgr_03; day=2026-02-11; price=80.845280; qty=0.408901; vol_z=2.25; tc_z=3.52
+USDCUSDT,2026-02-09,USDCUSDT_00001011,peg_break,Stablecoin traded materially away from the $1.00 peg with supporting minute context. manager=mgr_02; day=2026-02-09; price=0.987836; qty=198.014104; vol_z=1.06; tc_z=2.43
+USDCUSDT,2026-02-02,USDCUSDT_00001010,peg_break,USDC deviated to 0.993304; qty=126.01; minute tc_z=-0.70
+USDCUSDT,2026-01-14,USDCUSDT_00001001,peg_break,USDC deviated to 1.005697; qty=268.85; minute tc_z=-0.01
+USDCUSDT,2026-02-16,USDCUSDT_00001018,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-16; price=1.000562; qty=91.600449; vol_z=0.33; tc_z=3.65
+USDCUSDT,2026-02-16,USDCUSDT_00001017,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-16; price=1.003010; qty=91.256560; vol_z=0.05; tc_z=1.41
+USDCUSDT,2026-02-16,USDCUSDT_00001013,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-16; price=0.999719; qty=93.699429; vol_z=-0.07; tc_z=-0.28
+USDCUSDT,2026-02-16,USDCUSDT_00001014,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-16; price=1.000021; qty=94.182438; vol_z=0.24; tc_z=3.81
+USDCUSDT,2026-02-16,USDCUSDT_00001015,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_02; day=2026-02-16; price=1.000470; qty=94.703603; vol_z=-0.09; tc_z=-0.39
+XRPUSDT,2026-02-20,XRPUSDT_00002535,manager_consolidation,Single outsized coordinated print stands out sharply from the symbol baseline. manager=mgr_04; day=2026-02-20; price=1.416319; qty=1083.031685; vol_z=-0.02; tc_z=2.77
+XRPUSDT,2026-02-06,XRPUSDT_00002525,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-06; price=1.366237; qty=90.372388; vol_z=0.31; tc_z=-0.19
+XRPUSDT,2026-02-06,XRPUSDT_00002529,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-06; price=1.364751; qty=89.713325; vol_z=0.07; tc_z=0.97
+XRPUSDT,2026-02-06,XRPUSDT_00002530,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-06; price=1.369374; qty=90.402602; vol_z=0.42; tc_z=0.75
+XRPUSDT,2026-02-06,XRPUSDT_00002528,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-06; price=1.366305; qty=92.357333; vol_z=-0.52; tc_z=0.06
+XRPUSDT,2026-02-06,XRPUSDT_00002526,coordinated_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-02-06; price=1.369519; qty=85.980055; vol_z=1.00; tc_z=1.77
+XRPUSDT,2026-01-25,XRPUSDT_00002514,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-01-25; price=1.896901; qty=89.207612; vol_z=-0.22; tc_z=0.42
+XRPUSDT,2026-01-25,XRPUSDT_00002515,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-01-25; price=1.899734; qty=90.181877; vol_z=-0.23; tc_z=-0.38
+XRPUSDT,2026-01-25,XRPUSDT_00002517,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-01-25; price=1.898161; qty=88.746751; vol_z=0.67; tc_z=-0.00
+XRPUSDT,2026-01-25,XRPUSDT_00002516,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-01-25; price=1.900651; qty=91.264549; vol_z=0.33; tc_z=0.34
+XRPUSDT,2026-01-25,XRPUSDT_00002518,aml_structuring,Repeated near-identical notionals in a tight band indicate a structuring-style pattern. manager=mgr_04; day=2026-01-25; price=1.895061; qty=87.811590; vol_z=5.07; tc_z=1.40
+XRPUSDT,2026-01-30,XRPUSDT_00002521,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-30; price=1.755369; qty=76.182520; vol_z=1.68; tc_z=3.30
+XRPUSDT,2026-01-30,XRPUSDT_00002523,round_trip_wash,Tight buy/sell reversal with little net ownership change and narrow price dispersion. manager=mgr_04; day=2026-01-30; price=1.755838; qty=75.924306; vol_z=-0.18; tc_z=0.11
