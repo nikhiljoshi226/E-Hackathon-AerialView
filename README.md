@@ -7,6 +7,9 @@ This repository contains our final working notebooks, generated outputs, and sup
 ```text
 E-Hackathon Aerial View/
 ├── README.md
+│   ├── p1_alerts.csv
+│   ├── p2_signals.csv
+│   └── submission.csv
 ├── data_dir/
 │   ├── equity/
 │   │   ├── market_data.csv
@@ -34,9 +37,6 @@ E-Hackathon Aerial View/
 │   ├── ProblemStatement1.ipynb
 │   ├── ProblemStatement2.ipynb
 │   ├── ProblemStatement3.ipynb
-│   ├── p1_alerts.csv
-│   ├── p2_signals.csv
-│   └── submission.csv
 └── outputs/
     ├── ProblemStatement1_o1.png
     ├── ProblemStatement2_o1.png
