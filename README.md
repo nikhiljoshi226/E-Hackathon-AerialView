@@ -69,7 +69,7 @@ Inputs used:
 - `data_dir/equity/trade_data.csv`
 
 Output generated:
-- `src/p1_alerts.csv`
+- `p1_alerts.csv`
 
 What this notebook does:
 - loads per-minute equity order book, OHLCV, and trade data
@@ -100,7 +100,7 @@ Inputs used:
 - SEC EDGAR public 8-K search results fetched by the notebook
 
 Output generated:
-- `src/p2_signals.csv`
+- `p2_signals.csv`
 
 What this notebook does:
 - builds an EDGAR 8-K event timeline
@@ -132,7 +132,7 @@ Inputs used:
 - `data_dir/crypto-trades/*.csv`
 
 Output generated:
-- `src/submission.csv`
+- `submission.csv`
 
 What this notebook does:
 - loads all 8 crypto market and trade files
@@ -183,7 +183,7 @@ Recommended execution order:
 Each notebook:
 - reads its required files from `data_dir/`
 - prints timing and summary logs
-- writes the final CSV into `src/`
+- writes the final CSV into `/`
 
 ## Outputs Folder
 
@@ -193,9 +193,9 @@ The `outputs/` folder contains screenshot-ready images captured from notebook ru
 
 Before final submission, verify the following:
 
-- `src/p1_alerts.csv` exists and opens correctly
-- `src/p2_signals.csv` exists and opens correctly
-- `src/submission.csv` exists and opens correctly
+- `p1_alerts.csv` exists and opens correctly
+- `p2_signals.csv` exists and opens correctly
+- `submission.csv` exists and opens correctly
 - all three notebooks run from top to bottom without path changes
 - runtime logs are visible in notebook output
 - remarks columns are populated and readable
