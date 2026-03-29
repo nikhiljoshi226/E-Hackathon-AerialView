@@ -7,9 +7,9 @@ This repository contains our final working notebooks, generated outputs, and sup
 ```text
 E-Hackathon Aerial View/
 ├── README.md
-│   ├── p1_alerts.csv
-│   ├── p2_signals.csv
-│   └── submission.csv
+├── p1_alerts.csv
+├── p2_signals.csv
+└── submission.csv
 ├── data_dir/
 │   ├── equity/
 │   │   ├── market_data.csv
